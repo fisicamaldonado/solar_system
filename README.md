@@ -2,6 +2,8 @@
 
 Welcome to the Solar System Visualization repository! In this project, we explore and visualize some important characteristics of our solar system using Python and Matplotlib.
 
+![Solar system](images/solar.jpg)
+
 ## Introduction
 
 The `solar_system` dictionary provided in this repository contains key information about the planets in our solar system. Each planet's information is stored as a list, including the mass, radius, gravity, rotation period, orbital period around the sun, and distance from the sun (in UA).
