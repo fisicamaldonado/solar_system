@@ -33,15 +33,19 @@ This function generates a bar chart to compare the masses of the planets in our 
 Here are some example visualizations produced by the provided scripts:
 
 1. Bar chart of planet radii:
+
 ![Planets Radius](images/plot1.png)
 
-Using the logarithmic scale:
+2. Using the logarithmic scale:
+
 ![Planets Radius LOG](images/plot3.png)
 
-2. Bar chart of planet masses:
-![Planets Masses](images/planets_masses.png)
+3. Bar chart of planet masses:
 
-Using the logarithmic scale:
+![Planets Masses](images/plot2.png)
+
+4. Using the logarithmic scale:
+
 ![Planets Masses LOG](images/plot4.png)
 
 Feel free to explore and modify the code to create your own visualizations!
