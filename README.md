@@ -2,7 +2,7 @@
 
 Welcome to the Solar System Visualization repository! In this project, we explore and visualize some important characteristics of our solar system using Python and Matplotlib.
 
-![Solar system](images/solar.jpg)
+![Solar system](images/solar.jpeg)
 
 ## Introduction
 
